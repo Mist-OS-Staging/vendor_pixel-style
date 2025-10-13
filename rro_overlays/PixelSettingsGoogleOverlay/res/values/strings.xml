@@ -45,6 +45,9 @@
     <string name="config_styles_and_wallpaper_picker_action">android.intent.action.SET_WALLPAPER</string>
     <string name="config_styles_and_wallpaper_picker_class">com.android.customization.picker.CustomizationPickerActivity</string>
     <string name="oem_preferred_feedback_reporter">com.google.android.gms</string>
+    
+    <!-- User avatar dialog result broadcast explicit package -->
+    <string name="config_avatar_picker_package" translatable="false">com.google.android.avatarpicker</string>
 
     <!-- Help URI -->
     <string name="help_uri_about">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_about;end</string>
