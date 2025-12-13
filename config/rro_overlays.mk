@@ -51,7 +51,8 @@ PRODUCT_PACKAGES += \
     SettingsGoogleOverlayEvolutionX \
     SystemUIGXOverlay \
     WildlifeSettingsVpnOverlay2022 \
-    WildlifeSysuiVpnOverlay2022
+    WildlifeSysuiVpnOverlay2022 \
+    PixelWallpaperOverlay
 #    PixelDocumentsUIGoogleOverlay
 
 ifneq ($(filter panther cheetah lynx felix shiba husky akita tokay caiman komodo tegu frankel blazer mustang, $(LINEAGE_BUILD)),)
