@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     PixelDeviceDiagnostics \
     PixelDocumentsUIGoogleOverlay \
     PixelLauncherNoGestureHintOverlay \
-    PixelLauncherOverlayCustom \
     PixelSettingsGoogle \
     PixelSettingsProvider \
     PixelSetupWizardOverlayExpressive \
@@ -55,3 +54,4 @@ PRODUCT_PACKAGES += \
     WallpaperPicker2Overlay \
     WallpaperPicker2PixelOverlay \
     WildlifeSettingsVpnOverlay2022
+
