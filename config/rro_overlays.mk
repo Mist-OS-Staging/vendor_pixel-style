@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     GoogleSystemUIOverlay \
     GoogleWebViewOverlay \
     ManagedProvisioningPixelOverlay \
+    WallpaperOverlay \
     PixelAccessibilityMenu \
     PixelBuiltInPrintService \
     PixelConfigOverlay2018 \
