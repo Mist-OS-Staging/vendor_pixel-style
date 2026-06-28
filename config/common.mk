@@ -85,9 +85,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.atrace.core.services=com.google.android.gms,com.google.android.gms.ui,com.google.android.gms.persistent
 
 # New charging information
-PRODUCT_PRODUCT_PROPERTIES += \
-    charging_string.apply_lotx=true \
-    charging_string.apply_v2=true
+#PRODUCT_PRODUCT_PROPERTIES += \
+#    charging_string.apply_lotx=true \
+#    charging_string.apply_v2=true
 
 # WFC Activation
 PRODUCT_PRODUCT_PROPERTIES += \
