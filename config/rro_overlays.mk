@@ -55,6 +55,7 @@ PRODUCT_PACKAGES += \
     PixelTeleService \
     PixelTelecom \
     Pixelframework-res \
+    PixelWallpaperOverlay \
     ProactiveAssistOverlay2026 \
     SpoonOverlay2025 \
     SystemUIGXOverlay \
